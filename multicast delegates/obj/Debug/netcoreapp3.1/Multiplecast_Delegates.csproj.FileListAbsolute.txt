@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Multiplecast_Delegates\bin\Debug\netcoreapp3.1\Multiplecast_Delegates.exe
+C:\Users\Rohit Dasari\source\repos\Multiplecast_Delegates\bin\Debug\netcoreapp3.1\Multiplecast_Delegates.deps.json
+C:\Users\Rohit Dasari\source\repos\Multiplecast_Delegates\bin\Debug\netcoreapp3.1\Multiplecast_Delegates.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Multiplecast_Delegates\bin\Debug\netcoreapp3.1\Multiplecast_Delegates.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Multiplecast_Delegates\bin\Debug\netcoreapp3.1\Multiplecast_Delegates.dll
+C:\Users\Rohit Dasari\source\repos\Multiplecast_Delegates\bin\Debug\netcoreapp3.1\Multiplecast_Delegates.pdb
+C:\Users\Rohit Dasari\source\repos\Multiplecast_Delegates\obj\Debug\netcoreapp3.1\Multiplecast_Delegates.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Multiplecast_Delegates\obj\Debug\netcoreapp3.1\Multiplecast_Delegates.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Multiplecast_Delegates\obj\Debug\netcoreapp3.1\Multiplecast_Delegates.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Multiplecast_Delegates\obj\Debug\netcoreapp3.1\Multiplecast_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Multiplecast_Delegates\obj\Debug\netcoreapp3.1\Multiplecast_Delegates.dll
+C:\Users\Rohit Dasari\source\repos\Multiplecast_Delegates\obj\Debug\netcoreapp3.1\Multiplecast_Delegates.pdb
+C:\Users\Rohit Dasari\source\repos\Multiplecast_Delegates\obj\Debug\netcoreapp3.1\Multiplecast_Delegates.genruntimeconfig.cache
