@@ -1,0 +1,13 @@
+C:\Users\Rohit Dasari\source\repos\Singlecast_Delegate\bin\Debug\netcoreapp3.1\Singlecast_Delegate.exe
+C:\Users\Rohit Dasari\source\repos\Singlecast_Delegate\bin\Debug\netcoreapp3.1\Singlecast_Delegate.deps.json
+C:\Users\Rohit Dasari\source\repos\Singlecast_Delegate\bin\Debug\netcoreapp3.1\Singlecast_Delegate.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Singlecast_Delegate\bin\Debug\netcoreapp3.1\Singlecast_Delegate.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Singlecast_Delegate\bin\Debug\netcoreapp3.1\Singlecast_Delegate.dll
+C:\Users\Rohit Dasari\source\repos\Singlecast_Delegate\bin\Debug\netcoreapp3.1\Singlecast_Delegate.pdb
+C:\Users\Rohit Dasari\source\repos\Singlecast_Delegate\obj\Debug\netcoreapp3.1\Singlecast_Delegate.csprojAssemblyReference.cache
+C:\Users\Rohit Dasari\source\repos\Singlecast_Delegate\obj\Debug\netcoreapp3.1\Singlecast_Delegate.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Singlecast_Delegate\obj\Debug\netcoreapp3.1\Singlecast_Delegate.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Singlecast_Delegate\obj\Debug\netcoreapp3.1\Singlecast_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Singlecast_Delegate\obj\Debug\netcoreapp3.1\Singlecast_Delegate.dll
+C:\Users\Rohit Dasari\source\repos\Singlecast_Delegate\obj\Debug\netcoreapp3.1\Singlecast_Delegate.pdb
+C:\Users\Rohit Dasari\source\repos\Singlecast_Delegate\obj\Debug\netcoreapp3.1\Singlecast_Delegate.genruntimeconfig.cache
